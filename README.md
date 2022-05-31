@@ -163,35 +163,61 @@ Recommendation systems generally look for overlap or co-occurrence to make a rec
 In practise, a recommendation engine computes a co-occurrence matrix from a history matrix of events and actions
 After the recommendation system has computed the co-occurrence matrix we have to apply statistics to filter out the sufficiently anomalous signals to be interesting as a recommendation.
 
-Most importantly, a good user experience in search and recommendations are almost indistinguishable. Basically, search results are recommendations if we can formulate recommendations as search queries
-
-<!-- #### It’s an ideal solution as many websites like Anuviti and businesses already operate search engines in their backends and we can leverage existing infrastructure to build our recommendation system -->
+Most importantly, a good user experience in search and recommendations are almost indistinguishable. Basically, search results are recommendations if we can formulate recommendations as search queries.
 
 ## Challenges Faced
 
-"Errors are a stepping stones to develop good applications"
+"An error doesn't become a mistake until you refuse to correct it"
 
 During the development process I faced the following challenges:-
 
+-Understanding the work flow of the code and tech stack to be used so that I don't have to work on backend.However, thanks to online communities, stackoverflow, my mentor (Rohit Kumar Shaw) and friends I was able to find resources which helped me in creating this web application.
 
+-Preparing a feature list. In the beginning I wanted to build an app like no other and incorporate many features. But in the interest of time, I had to narrow down the features to the basic functionalities that are required in the web application.
 
+-Managing Development of my Project as my End semester were going on. It was a challenge to jumble myself and my time between my exam preparation and application development, but due to the guidance of my mentor and discussing strategies with my friends I was able to deliver both of them in time.
 
+-Solving errors. It was my first time with the tech stacks I choose. Thus, all the errors were new to me. At the end, I was able to solve all the errors. 
 
 
 ## Future Scope
 
+-Adding more information the places for more efficient planning of the trip.
+
+-Adding wishlist feature and list of places done exploring.
+
+-Forming community Section where like-minded people and share their reviews and planout next trip with a group those have same level of energy.
+
+-Adding hybrid recommendation system in the homepage.
+
 ## Bug Log
+
+-Sometimes Google Maps API shows error and doesn't work. 
+
+-Budget of the places is set to default.
 
 # Demo
 
 [Video Demo](https://drive.google.com/file/d/1EAI27ZcaMjp5SzO0LmTaMltzI3EoDyID/view?usp=sharing)
 
 
-
-
 ## Resources
 
+https://reactjs.org/docs/getting-started.html
 
+https://mui.com/material-ui/getting-started/installation/
+
+https://www.hindawi.com/journals/cin/2016/1291358/
+
+https://link.springer.com/chapter/10.1007/978-0-387-85820-3_7?noAccess=true
+
+https://arxiv.org/abs/2007.15409#:~:text=A%20context%2Daware%20recommender%20system,the%20accuracy%20of%20the%20recommendations.
+
+https://www.ijert.org/tourism-recommendation-system-a-systematic-review
+
+https://dl.acm.org/doi/10.1145/2525314.2525339
+
+https://docs.rapidapi.com/
 
 
 ## Support and Contact
