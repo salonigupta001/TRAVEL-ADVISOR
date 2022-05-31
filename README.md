@@ -66,7 +66,8 @@ To use this Project Follow the steps below:-
 
 1. Clone the Repo
 
-  git clone https://github.com/salonigupta001/Travel-Advisor
+    git clone https://github.com/salonigupta001/Travel-Advisor
+    
 
 2. install NPM Packages
   
@@ -74,6 +75,7 @@ To use this Project Follow the steps below:-
 
 
 3. Do the required for activating .env files
+
 
 4. Start Client
    
@@ -84,24 +86,20 @@ To use this Project Follow the steps below:-
 
 In spite of all the smart devices that exist today in the world, one thing that is common is - web and internet browsers. I selected my application to be a web application so that a large number of users are able to use it with ease and connect together
 
-*HTML* 
-*Material-Ui* 
-*React Js* 
-*Google Maps API* 
-*Trip Advisor API*
-*Open Weather Map API* 
+*Client:* HTML, Material-Ui, React Js 
+
+*Server:* Google Maps API, Rapid API( Trip Advisor API, Open Weather Map API) 
 
 
-## Recommender System & Algorithms
+## Recommendation System & Algorithms
 
-The term Recommender system is described as any
+The term Recommendation system is described as any
 organization that provides personalized suggestions as a
 result and it effects the user in the individualized way to
 favorable items from the large number of opinions.
 
-Recommender systems are usually classified
-into two broad categories: Content based and Collaborative
-Filtering
+Recommendation systems are usually classified
+into siix categories: 
 
 *Content-Based Recommendation:* one tries
 to recommend items similar to those a given user has liked in
@@ -109,6 +107,14 @@ the past
 
 *Collaborative Recommendation:* one
 identifies users whose tastes are similar to those of the given user and recommends items they have liked
+
+*Demographic Recommendation:* recommends items based on demographic information of the users. It does not require users ratings or knowledge of the item and thus can overcome cold start problem.
+
+*Hybrid Recommendation:* combination of the content and collaborative filtering method
+
+*Knowledge-Based Recommendation:* based on explicit knowledge about the item assortment, user preferences, and recommendation criteria (i.e., which item should be recommended in which context).
+
+*Context-Aware Recommendation:* If the target user’s contextual information is available, we can make the RSs ubiquitous. Various attributes like time, location, companion, mood, etc.,
 
 ### Role Of Sorting Algorithms 
 
