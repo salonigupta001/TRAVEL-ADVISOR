@@ -4,7 +4,7 @@ Travel Advisor is an attempt to bring the concept and features to life of the ro
 
 This project was built as a part of the Microsoft Engage Program 2022 where mentees had to take up one of the three challenges/tracks, namely Face Recognition, Data Analysis and Algorithms.
 
-This project was made in an attempt to take on the 3rd challenge of researching and thinking about the algorithms that may be used in a web streaming service such as netflix and spotify to recommend different places to visit.
+I choose the 3rd challenge of researching and thinking about the algorithms that may be used in a web streaming service such as netflix and spotify to recommend different places to visit.
 
 *Motivation:* 
 
@@ -12,11 +12,12 @@ While travelling from home to hostel and hostel to home, everytime I look throug
 
 *Solved Problem:*
 
-Aim of this web app is to make your next vacation, the best experience and help you to discover new and amazing places that are around you. figure out the fastest and most efficient ways of getting around the city using public transport
+Aim of this web app is to make your next vacation, the best experience and help you to discover new and amazing places that are around you. And plan next trip taking into consideration all the parameters.
 
 *Learnings:*
 
-Through the Microsoft Engage Mentorship Program 2022 under the able guidance of my mentor - Rohit Kumar Shaw sir I was able to go from a person who just knew how to make static web pages to a person who can learn build and deploy full flegded web applications while my exams are going on.
+Through the Microsoft Engage Mentorship Program 2022 under the able guidance of my mentor - Rohit Kumar Shaw sir I was able to go from a person who just knew how to make static web pages to a person who can learn build and deploy full flegded web applications while my exams are going on.This was my first time experience with Material UI, React Js, APIs namely Google Maps 
+API, Trip Advisor and Open Weather Map API.
 
 *Watch Demo* : <a href="https://drive.google.com/file/d/1EAI27ZcaMjp5SzO0LmTaMltzI3EoDyID/view?usp=sharing">Video Demo</a>
 
@@ -118,7 +119,7 @@ identifies users whose tastes are similar to those of the given user and recomme
 
 ### Role Of Sorting Algorithms 
 
-Recommender systems are designed in such a way
+Recommendation systems are designed in such a way
 that they sort through massive amounts of data so as to help
 users in finding their preferred items.
 
@@ -153,7 +154,7 @@ It is preferable to use MergeSort in the following scenarios:-
 - Data Set is very large and generalized
 - There is no Constraint of space under which the algorithm needs to work
 
-#### As the dataset for my recommendaton system was not already available and I had to create my own database from scratch. My database was, as a result, small and very specific in terms of the data it stored. Therefore, for my scenario, I would Use Quicksort in my recommendation system
+#### As the dataset for my recommendaton system was available and integrated throught. Therefore, for my scenario, I would Use Mergesort in my recommendation system
 
 ### Role of Search Algorithms
 
@@ -164,7 +165,7 @@ After the recommendation system has computed the co-occurrence matrix we have to
 
 Most importantly, a good user experience in search and recommendations are almost indistinguishable. Basically, search results are recommendations if we can formulate recommendations as search queries
 
-#### It’s an ideal solution as many websites like Anuviti and businesses already operate search engines in their backends and we can leverage existing infrastructure to build our recommendation system
+<!-- #### It’s an ideal solution as many websites like Anuviti and businesses already operate search engines in their backends and we can leverage existing infrastructure to build our recommendation system -->
 
 ## Challenges Faced
 
