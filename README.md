@@ -6,15 +6,23 @@ This project was built as a part of the Microsoft Engage Program 2022 where ment
 
 I choose the 3rd challenge of researching and thinking about the algorithms that may be used in a web streaming service such as netflix and spotify to recommend different places to visit.
 
+![image](https://user-images.githubusercontent.com/99320422/171132046-aaeb92b8-3861-42c2-ac47-cb094f42d932.png)
+
+
 *Motivation:* 
+
 
 While travelling from home to hostel and hostel to home, everytime I look through the window, I wondered what could be the speciality the place and the beautiful architecture of the city. And then a small idea came into existance, why not develop a something that recommends you placees according to your locatiion.
 
+
 *Solved Problem:*
+
 
 Aim of this web app is to make your next vacation, the best experience and help you to discover new and amazing places that are around you. And plan next trip taking into consideration all the parameters.
 
+
 *Learnings:*
+
 
 Through the Microsoft Engage Mentorship Program 2022 under the able guidance of my mentor - Rohit Kumar Shaw sir I was able to go from a person who just knew how to make static web pages to a person who can learn build and deploy full flegded web applications while my exams are going on.This was my first time experience with Material UI, React Js, APIs namely Google Maps 
 API, Trip Advisor and Open Weather Map API.
@@ -22,6 +30,9 @@ API, Trip Advisor and Open Weather Map API.
 *Watch Demo* : <a href="https://drive.google.com/file/d/1EAI27ZcaMjp5SzO0LmTaMltzI3EoDyID/view?usp=sharing">Video Demo</a>
 
 
+## Screenshot of the WebApp
+![image](https://user-images.githubusercontent.com/99320422/171132925-4e367fbb-3b50-47d7-89e6-93c900540907.png)
+![image](https://user-images.githubusercontent.com/99320422/171133093-1c046d0d-86ef-479a-920b-282e4b7eb101.png)
 
 
 ## Table Of Contents
@@ -45,6 +56,7 @@ API, Trip Advisor and Open Weather Map API.
 
 [Support & Contact](#support-&-contact)
 
+
 ## Features
 
 - Responsive Design for Desktops, Ipads, Tablets and Phone
@@ -60,6 +72,7 @@ API, Trip Advisor and Open Weather Map API.
 - Search Bar for recommendation on the basis of places we choose 
 - Live suggestions on the Search Bar
 - Visualizationn of weather of the places in the map
+
 
 ## Installation
 
@@ -90,6 +103,7 @@ To use this Project Follow the steps below:-
    npm start
 ```
 
+
 ## Tech Stack
 
 In spite of all the smart devices that exist today in the world, one thing that is common is - web and internet browsers. I selected my application to be a web application so that a large number of users are able to use it with ease and connect together
@@ -109,20 +123,28 @@ favorable items from the large number of opinions.
 Recommendation systems are usually classified
 into siix categories: 
 
+
 *Content-Based Recommendation:* one tries
 to recommend items similar to those a given user has liked in
 the past
 
+
 *Collaborative Recommendation:* one
 identifies users whose tastes are similar to those of the given user and recommends items they have liked
 
+
 *Demographic Recommendation:* recommends items based on demographic information of the users. It does not require users ratings or knowledge of the item and thus can overcome cold start problem.
+
 
 *Hybrid Recommendation:* combination of the content and collaborative filtering method
 
+
 *Knowledge-Based Recommendation:* based on explicit knowledge about the item assortment, user preferences, and recommendation criteria (i.e., which item should be recommended in which context).
 
+
 *Context-Aware Recommendation:* If the target user’s contextual information is available, we can make the RSs ubiquitous. Various attributes like time, location, companion, mood, etc.,
+
+
 
 ### Role Of Sorting Algorithms 
 
@@ -136,6 +158,8 @@ representing the preference of that item for the user.
 The interest of a user in an item is assumed to be dependent on
 the value of the item being recommended, i.e., highest the
 value, more interested the user will be.
+
+
 
 #### Most Efficient Sorting Algorithm To Use
 
@@ -163,6 +187,7 @@ It is preferable to use MergeSort in the following scenarios:-
 
 #### As the dataset for my recommendaton system was available and integrated throught. Therefore, for my scenario, I would Use Mergesort in my recommendation system
 
+
 ### Role of Search Algorithms
 
 Recommendation systems generally look for overlap or co-occurrence to make a recommendation.
@@ -171,6 +196,8 @@ In practise, a recommendation engine computes a co-occurrence matrix from a hist
 After the recommendation system has computed the co-occurrence matrix we have to apply statistics to filter out the sufficiently anomalous signals to be interesting as a recommendation.
 
 Most importantly, a good user experience in search and recommendations are almost indistinguishable. Basically, search results are recommendations if we can formulate recommendations as search queries.
+
+
 
 ## Challenges Faced
 
@@ -197,11 +224,13 @@ During the development process I faced the following challenges:-
 
 -Adding hybrid recommendation system in the homepage.
 
+
 ## Bug Log
 
 -Sometimes Google Maps API shows error and doesn't work. 
 
 -Budget of the places is set to default.
+
 
 # Demo
 
@@ -225,6 +254,7 @@ https://www.ijert.org/tourism-recommendation-system-a-systematic-review
 https://dl.acm.org/doi/10.1145/2525314.2525339
 
 https://docs.rapidapi.com/
+
 
 
 ## Support and Contact
