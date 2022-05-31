@@ -67,21 +67,28 @@ To use this Project Follow the steps below:-
 
 1. Clone the Repo
 
+```bash
+
     git clone https://github.com/salonigupta001/Travel-Advisor
-    
+```
 
 2. install NPM Packages
+
+```bash
   
    npm install i
+```
 
 
 3. Do the required for activating .env files
 
 
 4. Start Client
+
+```bash
    
    npm start
-  
+```
 
 ## Tech Stack
 
